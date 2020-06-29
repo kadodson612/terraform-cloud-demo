@@ -13,7 +13,7 @@ resource tfe_workspace workspace {
     # specifies which VCS connection to use for this
     # workspace.
     vcs_repo  {
-        identifier = "stvdilln/terraform-cloud-demo"
+        identifier = "kadodson612/terraform-cloud-demo"
         oauth_token_id = var.oauth_token_id
         branch = "master"
 

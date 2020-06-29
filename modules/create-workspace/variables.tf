@@ -22,7 +22,7 @@ variable terraform_version {
 
 
 variable github_repo {
-    default = "stvdilln/terraform-cloud-demo"
+    default = "kadodson612/terraform-cloud-demo"
 }
 variable github_branch {
 }
